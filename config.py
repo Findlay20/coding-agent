@@ -1,0 +1,1 @@
+MAX_CHAR_READ = 10_000
